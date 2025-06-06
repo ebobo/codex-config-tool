@@ -1,0 +1,17 @@
+{
+  "name": "codex-config-tool",
+  "version": "1.0.0",
+  "description": "EVO configuration tool prototype",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"No tests defined\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "electron": "^30.0.0"
+  }
+}
