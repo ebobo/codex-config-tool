@@ -1,0 +1,4 @@
+TagName,DetectionZone,UnitId,Notes
+CABIN-101-SMOKE,DZ-101-CABINS,00:03:49:9D-21-00,Primary smoke detector
+CABIN-102-SMOKE,DZ-101-CABINS,00:17:48:9D-21-00,
+STAIR-A-MCP,DZ-105-STAIRS,,UnitId can be blank
